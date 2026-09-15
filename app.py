@@ -7,7 +7,7 @@ import os
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.metrics import accuracy_score
-i,port streanlit as st
+import streanlit as st
 #this streamlit is for web based application project 
 
 
